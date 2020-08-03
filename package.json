@@ -5,6 +5,9 @@
   "repository": "git@github.com:JCRN/node-api1-project.git",
   "author": "Jason Clemons <clemons.jason@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
   "devDependencies": {
     "eslint": "7.2.0",
     "eslint-config-airbnb": "18.2.0",
